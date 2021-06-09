@@ -1,0 +1,19 @@
+{
+  "name": "file2c",
+  "version": "1.0.0",
+  "description": "File data to c array",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/plter/file2c",
+  "keywords": [
+    "Electron"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^13.1.1",
+    "electron-builder": "^22.10.5"
+  }
+}
