@@ -4,7 +4,8 @@
   "description": "File data to c array",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dist":"npx electron-builder"
   },
   "repository": "https://github.com/plter/file2c",
   "keywords": [
